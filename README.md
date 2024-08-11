@@ -24,7 +24,7 @@ All necessary data is sourced from [Tennis Data](http://www.tennis-data.co.uk/),
 As of **12th August 2024**, the current male tennis rankings according to the ELO score are:
 
 ![ELO Rankings](C:\Users\Cgh\Pictures\tennis_elo.png)
-)
+
 
 ## 🔮 Predicted Win Probabilities
 
